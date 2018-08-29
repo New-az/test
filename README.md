@@ -3,9 +3,9 @@
 1.**Tom** have been playing some game.\
 2.But his **mom_** didn't like it.\
 *But his *mom* didn't like it.  
-+*~~lol.~~\
++*~~lol.~~
 ## Link
-[this is google](https://www.google.com)\
+[this is google](https://www.google.com)
 
 ## Table
 
