@@ -10,6 +10,6 @@
 Topic | colour | something
 --- | --- | ---
 *ISP* | `RED` | **something**
-*Java* | `Green` | **something2**
+*Java* | `Green` | **something2**\
 ##Image
 ![alt text](https://vignette.wikia.nocookie.net/vsbattles/images/d/d0/Doraemon_render.png/ "Doraemon 1")
