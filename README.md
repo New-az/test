@@ -17,3 +17,4 @@ Topic | colour | something
 ## Image
 ![alt text](https://vignette.wikia.nocookie.net/vsbattles/images/d/d0/Doraemon_render.png/revision/latest?cb=20171108000852 "Doraemon 1")
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/New-az/test.svg?columns=all)](https://waffle.io/New-az/test)
